@@ -1,4 +1,4 @@
-# QRDC
+# QTRDC
 QT Remote Desktop Connection - like RDP and VNC
 
 
